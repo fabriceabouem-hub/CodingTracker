@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World! Comment allez vous ?");
+            Console.WriteLine("Hello, World! Comment allez vous ? il y a longtemps!");
         }
     }
 }
